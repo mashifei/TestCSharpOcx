@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>Carpa.XiWa</id>
+    <version>4.0.4840.32765</version>
+    <title>Carpa3 Web项目</title>
+    <authors>任我行软件发展有限责任公司</authors>
+    <owners>任我行软件发展有限责任公司</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Description</description>
+    <references>
+      <reference file="Carpa.XiWa.dll" />
+    </references>
+  </metadata>
+</package>

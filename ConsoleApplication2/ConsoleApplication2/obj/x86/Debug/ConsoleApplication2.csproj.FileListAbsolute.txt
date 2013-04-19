@@ -1,0 +1,8 @@
+E:\MyTest\TestCSharpOcx\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+E:\MyTest\TestCSharpOcx\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+E:\MyTest\TestCSharpOcx\ConsoleApplication2\ConsoleApplication2\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\MyTest\TestCSharpOcx\ConsoleApplication2\ConsoleApplication2\obj\x86\Debug\ConsoleApplication2.exe
+E:\MyTest\TestCSharpOcx\ConsoleApplication2\ConsoleApplication2\obj\x86\Debug\ConsoleApplication2.pdb
+E:\MyTest\TestCSharpOcx\ConsoleApplication2\ConsoleApplication2\bin\Debug\Interop.GraspReportDsp.dll
+E:\MyTest\TestCSharpOcx\ConsoleApplication2\ConsoleApplication2\obj\x86\Debug\Interop.GraspReportDsp.dll
+E:\MyTest\TestCSharpOcx\ConsoleApplication2\ConsoleApplication2\obj\x86\Debug\ConsoleApplication2.csproj.ResolveComReference.cache
